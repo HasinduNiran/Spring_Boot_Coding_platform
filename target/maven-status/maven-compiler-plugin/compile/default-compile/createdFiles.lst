@@ -1,9 +1,0 @@
-com\example\crudmongodb\exception\ErrorResponse.class
-com\example\crudmongodb\exception\ResourceNotFoundException.class
-com\example\crudmongodb\service\impl\ProductServiceImpl.class
-com\example\crudmongodb\exception\GlobalExceptionHandler.class
-com\example\crudmongodb\controller\ProductController.class
-com\example\crudmongodb\CrudMongodbApplication.class
-com\example\crudmongodb\model\Product.class
-com\example\crudmongodb\repository\ProductRepository.class
-com\example\crudmongodb\service\ProductService.class
